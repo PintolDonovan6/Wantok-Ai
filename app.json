@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Wantok-AI",
+    "slug": "wantok-ai",
+    "version": "1.0.0",
+    "platforms": ["android"],
+    "sdkVersion": "50.0.0"
+  }
+}
